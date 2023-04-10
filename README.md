@@ -1,2 +1,2 @@
-# PrepCourse-Henry2
-Este es un repositorio de prueba del modulo 2 del prep course de Henry
+Nicolas Muñoz
+Este proyecto es una prueba de clonar repositorio
